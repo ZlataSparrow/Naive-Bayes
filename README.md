@@ -6,6 +6,7 @@ This repository explores the Naive Bayes classification algorithm: from mathemat
 
 #### Results: 
 
+
 1. Baseline Model (02_A_Movie_Recom_Naive_Bayes)
 * Best Multinomial Naive Bayes achieved an AUC of ~0.72, showing good separation between “like” and “dislike” classes.
 * Demonstrated how smoothing (alpha) and prior learning (fit_prior) affect model stability.
